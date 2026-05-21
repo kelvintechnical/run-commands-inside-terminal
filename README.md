@@ -163,19 +163,17 @@ exit
 - [ ] Ready to verify port mapping from host (Lab 22-1h)
 
 ---
-
 ## 🔗 Series Navigation
-
 | Lab | Description |
 |-----|-------------|
-| [22-1a](https://github.com/kelvintechnical/lab-22-1a) | Create conadm user |
-| [22-1b](https://github.com/kelvintechnical/lab-22-1b) | Grant conadm full sudo rights |
-| [22-1c](https://github.com/kelvintechnical/lab-22-1c) | Verify sudo access |
-| [22-1d](https://github.com/kelvintechnical/lab-22-1d) | Inspect ubi9 remotely with skopeo |
-| [22-1e](https://github.com/kelvintechnical/lab-22-1e) | Pull ubi9 image with podman |
-| [22-1f](https://github.com/kelvintechnical/lab-22-1f) | Launch container with -it + port map 80:8080 |
+| [22-1a](https://github.com/kelvintechnical/Create-User-Account-Conadm) | Create conadm user |
+| [22-1b](https://github.com/kelvintechnical/Grant-Conadm-Full-Rights) | Grant conadm full sudo rights |
+| [22-1c](https://github.com/kelvintechnical/Verify-Sudo-Access-Conadm) | Verify sudo access |
+| [22-1d](https://github.com/kelvintechnical/Inspect-ubi9-with-skopeo) | Inspect ubi9 remotely with skopeo |
+| [22-1e](https://github.com/kelvintechnical/Pull-ubi9-Image-with-podman) | Pull ubi9 image with podman |
+| [22-1f](https://github.com/kelvintechnical/launch-container-interative-terminal) | Launch container with -it + port map 80:8080 |
 | **22-1g** | **Run basic commands inside container** ← you are here |
-| [22-1h](https://github.com/kelvintechnical/lab-22-1h) | Verify port mapping from host |
+| [22-1h](https://github.com/kelvintechnical/verify-port-mapping-from-host) | Verify port mapping from host |
 
 ---
 
